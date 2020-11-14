@@ -11,7 +11,7 @@ how could this happens? well, thanks to [iodide](https://github.com/iodide-proje
 ### [Online Demo](http://bulma.abilian.com:8000/olapy.html)
 
 
-![OlaPy-Pyodide](https://raw.githubusercontent.com/abilian/olapy-pyiodide/master/docs/img/olapy-pyodide.gif)
+![OlaPy-Pyodide](https://raw.githubusercontent.com/abilian/olapy-pyiodide/main/docs/img/olapy-pyodide.gif)
 
 
 Build OlaPy with Pyodide by yourself
